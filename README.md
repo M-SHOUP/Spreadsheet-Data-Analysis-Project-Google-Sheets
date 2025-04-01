@@ -18,7 +18,14 @@ Cleaned and transformed raw sales data using advanced formulas, functions, and p
 - Demonstrate strong spreadsheet-based analysis skills for business intelligence applications  
 
 ## Screenshots
+1. Table of Contents and Appendices
+Provides a high-level overview of project components including the executive summary, assumptions, and analysis pivot tables.
 
+2. Assumptions and Change Log
+Outlines project assumptions, such as data completeness and consistency, and logs version changes as the dataset is cleaned and analyzed.
+
+3. Pivot Chart – Bedroom Size by Neighborhood
+Displays a bar chart of the most preferred bedroom sizes across top NYC neighborhoods, based on number of reviews.
 
 ## Status  
 Completed – January 2025
