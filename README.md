@@ -17,8 +17,8 @@ Cleaned and transformed raw sales data using advanced formulas, functions, and p
 - Enable better sales forecasting and resource allocation  
 - Demonstrate strong spreadsheet-based analysis skills for business intelligence applications  
 
-## Screenshots (Optional)  
-*Add screenshots here if desired. You could upload images to GitHub and reference them here for visual examples.*
+## Screenshots
+
 
 ## Status  
 Completed – January 2025
